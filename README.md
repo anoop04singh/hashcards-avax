@@ -106,6 +106,17 @@ Deployment Details
 *   **Developer**: Anoop Singh
 
 *   **Contract  Address**:  0x1a8292Ec9465e18437E845d219F000846723ABE8
+
+---
+
+## Deployed on Vercel
+
+[![Vercel](https://assets.vercel.com/image/upload/v1662130559/front/vercel/dps.png)](https://hashcards-avax.vercel.app)
+
+HashCards is deployed and live on **Vercel**. Check it out here: [hashcards-avax.vercel.app](https://hashcards-avax.vercel.app)
+
+---
+
     
 
 How to Use HashCards
@@ -140,3 +151,15 @@ Acknowledgments
 HashCards is built to redefine the way cryptocurrency is gifted, combining the physical and digital worlds for a seamless experience.
 
 Developed and maintained by **Anoop Singh**.
+
+## Issues
+
+### Gas Fee for Redeeming Gift Cards
+
+Currently, when a new wallet attempts to redeem a gift card, they may encounter an issue if they lack the necessary gas fee. Without sufficient gas, the transaction will not go through.
+
+We are actively exploring solutions to resolve this issue, such as allowing the gas fee to be deducted from the amount in the gift card itself. This feature will ensure a smoother experience for all users and will be updated soon.
+
+
+
+
